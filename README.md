@@ -12,7 +12,7 @@ The analysis was designed to understand business performance, identify profitabi
 
 The main objective was to answer:
 
-«How can expenses be reduced without negatively affecting sales and profitability?»
+"How can expenses be reduced without negatively affecting sales and profitability?"
 
 The analysis focuses on:
 
@@ -34,7 +34,7 @@ The dataset contains 6 records covering:
 - 2 products: Rice and Beans
 - 3 months: January, February, March
 
-Original columns
+Original Columns
 
 Column| Description
 Product| Product being analyzed
@@ -42,7 +42,7 @@ Month| Month of the transaction
 Sales| Revenue generated
 Expenses| Business expenses
 
-Derived columns
+Derived Columns
 
 Column| Description
 Profit| Sales − Expenses
@@ -85,7 +85,7 @@ Overall Performance
 - Total Sales: ₦2,450,000
 - Total Expenses: ₦1,430,000
 - Total Profit: ₦1,020,000
-- Overall Profit Margin: approximately 41.6%
+- Overall Profit Margin: Approximately 41.6%
 
 Product Performance
 
@@ -108,9 +108,9 @@ March recorded the highest:
 
 Profit increased consistently:
 
-January → ₦250,000
-February → ₦370,000
-March → ₦400,000
+- January → ₦250,000
+- February → ₦370,000
+- March → ₦400,000
 
 February recorded the highest monthly aggregate profit margin at approximately 43.53%.
 
@@ -145,23 +145,23 @@ The analysis suggests that:
 
 💼 Recommendations
 
-1. Investigate unnecessary expenses
+1. Investigate Unnecessary Expenses
 
 Management should investigate production, distribution, inventory, wastage, and other operating costs to identify avoidable expenses.
 
-2. Protect expenses that support sales
+2. Protect Expenses That Support Sales
 
 Costs that contribute to product quality, customer demand, and sales should not be reduced blindly.
 
-3. Investigate Beans-related costs
+3. Investigate Beans-Related Costs
 
 Because Beans recorded a slightly higher average expense ratio than Rice, management should examine its underlying cost components for possible efficiencies.
 
-4. Monitor profitable sales
+4. Monitor Profitable Sales
 
 Management should continue monitoring products and sales activities that generate higher profits while maintaining appropriate cost controls.
 
-5. Monitor trends before making major decisions
+5. Monitor Trends Before Making Major Decisions
 
 Business decisions should be based on observed sales, expense, and profitability trends rather than sales volume alone.
 
