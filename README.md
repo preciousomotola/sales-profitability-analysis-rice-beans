@@ -12,7 +12,7 @@ The analysis was designed to understand business performance, identify profitabi
 
 The main objective was to answer:
 
-"How can expenses be reduced without negatively affecting sales and profitability?"
+### "How can expenses be reduced without negatively affecting sales and profitability?"
 
 The analysis focuses on:
 
