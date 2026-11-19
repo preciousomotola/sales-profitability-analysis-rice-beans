@@ -1,6 +1,6 @@
-Sales & Profitability Analysis — Rice & Beans
+# Sales & Profitability Analysis — Rice & Beans
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes the sales, expenses, and profitability of two products — Rice and Beans — across January, February, and March.
 
@@ -8,7 +8,7 @@ The analysis was designed to understand business performance, identify profitabi
 
 ---
 
-🎯 Business Objective
+## 🎯 Business Objective
 
 The main objective was to answer:
 
@@ -27,14 +27,14 @@ The analysis focuses on:
 
 ---
 
-🗂️ Dataset
+## 🗂️ Dataset
 
 The dataset contains 6 records covering:
 
 - 2 products: Rice and Beans
 - 3 months: January, February, March
 
-Original Columns
+### Original Columns
 
 Column| Description
 Product| Product being analyzed
@@ -42,7 +42,7 @@ Month| Month of the transaction
 Sales| Revenue generated
 Expenses| Business expenses
 
-Derived Columns
+### Derived Columns
 
 Column| Description
 Profit| Sales − Expenses
@@ -51,7 +51,7 @@ Expense_Ratio| Expenses as a percentage of Sales
 
 ---
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
@@ -61,7 +61,7 @@ Expense_Ratio| Expenses as a percentage of Sales
 
 ---
 
-🔄 Analysis Workflow
+## 🔄 Analysis Workflow
 
 The project followed this workflow:
 
@@ -78,16 +78,16 @@ The project followed this workflow:
 
 ---
 
-📊 Key Findings
+## 📊 Key Findings
 
-Overall Performance
+### Overall Performance
 
 - Total Sales: ₦2,450,000
 - Total Expenses: ₦1,430,000
 - Total Profit: ₦1,020,000
 - Overall Profit Margin: Approximately 41.6%
 
-Product Performance
+### Product Performance
 
 Rice generated the highest total sales and profit over the three-month period.
 
@@ -99,7 +99,7 @@ The average row-level profit margin was approximately:
 - Rice: 41.54%
 - Beans: 40.95%
 
-Monthly Performance
+### Monthly Performance
 
 March recorded the highest:
 
@@ -116,7 +116,7 @@ February recorded the highest monthly aggregate profit margin at approximately 4
 
 ---
 
-📈 Visualizations
+## 📈 Visualizations
 
 The project includes visualizations for:
 
@@ -130,7 +130,7 @@ These visualizations were used to make business patterns easier to identify and 
 
 ---
 
-💡 Business Insights
+## 💡 Business Insights
 
 The analysis suggests that:
 
@@ -143,31 +143,31 @@ The analysis suggests that:
 
 ---
 
-💼 Recommendations
+## 💼 Recommendations
 
-1. Investigate Unnecessary Expenses
+### 1. Investigate Unnecessary Expenses
 
 Management should investigate production, distribution, inventory, wastage, and other operating costs to identify avoidable expenses.
 
-2. Protect Expenses That Support Sales
+### 2. Protect Expenses That Support Sales
 
 Costs that contribute to product quality, customer demand, and sales should not be reduced blindly.
 
-3. Investigate Beans-Related Costs
+### 3. Investigate Beans-Related Costs
 
 Because Beans recorded a slightly higher average expense ratio than Rice, management should examine its underlying cost components for possible efficiencies.
 
-4. Monitor Profitable Sales
+### 4. Monitor Profitable Sales
 
 Management should continue monitoring products and sales activities that generate higher profits while maintaining appropriate cost controls.
 
-5. Monitor Trends Before Making Major Decisions
+### 5. Monitor Trends Before Making Major Decisions
 
 Business decisions should be based on observed sales, expense, and profitability trends rather than sales volume alone.
 
 ---
 
-⚠️ Project Limitations
+## ⚠️ Project Limitations
 
 This analysis has some limitations:
 
@@ -180,7 +180,7 @@ Therefore, the findings should be considered directional rather than definitive.
 
 ---
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 This project demonstrates my ability to:
 
@@ -197,7 +197,7 @@ This project demonstrates my ability to:
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 The analysis shows improving profitability across the three-month period, with Rice generating the highest total profit and March recording the strongest monthly sales and profit performance.
 
@@ -207,6 +207,6 @@ Further analysis using a larger dataset and more detailed expense categories wou
 
 ---
 
-👨‍💻 Project Purpose
+## 👨‍💻 Project Purpose
 
 This project was created as part of my journey in developing practical Data Analysis and Business Intelligence skills, with a focus on using data to support better business decisions.
